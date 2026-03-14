@@ -118,18 +118,13 @@ Example:
 
 📡 IoT cloud monitoring
 📱 Mobile app dashboard
-💾 SD card data logging
 ⚠ Water quality alert system
 🌍 Smart environmental monitoring
 
 ---
 
-# 👨‍💻 Author
-
-**Raj B**
-
 Embedded Systems & IoT Enthusiast
 
 ---
 
-⭐ If you like this project, consider **starring the repository** on GitHub!
+
