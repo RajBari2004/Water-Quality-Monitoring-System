@@ -94,8 +94,6 @@ Water-Quality-Monitoring-System
 ├── WaterQualityMonitor.ino
 ├── README.md
 ├── circuit_diagram.png
-├── images
-├── LICENSE
 └── .gitignore
 
 ---
